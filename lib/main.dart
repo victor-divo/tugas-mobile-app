@@ -53,7 +53,7 @@ class MyApp extends StatelessWidget {
       //ketika menggunakan initialroute dan route maka Kita tidak perlu menggunakan // home: RowSreen(), lagi.
       //karena semua route awal yang tampilan akan mengikuti initialRoute dan routes
       //contoh dibawah ini yang akan ditampilkan adalah ListScreen().
-      initialRoute: '/login_screen',
+      initialRoute: '/listview',
       //daftar rute atau halaman yang digunakan dalam aplikasi, yang dapat diakses
       //melalui tombol navigasi, hyperlink, dll
       routes: {
